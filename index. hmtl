@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sekike Face Products</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Sekike Face Products</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <section>
+    <h2>Glow Naturally</h2>
+    <p>We offer face products to help your skin glow and stay healthy.</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Sekike Face Products</p>
+  </footer>
+</body>
+</html>
